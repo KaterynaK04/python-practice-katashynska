@@ -7,6 +7,7 @@ def main():
     print(f"Name: {name} {surname}")
     print(f"Group: {group}")
     print(f"Age in 2026: {2026 - birth_year}")
+    print(len(surname))
     print("Favourite language: Python")
 
 
